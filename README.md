@@ -5,4 +5,4 @@
 - <b>Software Engineering Group Project</b>
   - [Restaurant App in Java](https://github.com/dhone-asu/CSE_360-TeamProject)
 
-[linkedin]: http://www.linkedin.com/in/sabien-najim-687159267
+LinkedIn: http://www.linkedin.com/in/sabien-najim-687159267 
