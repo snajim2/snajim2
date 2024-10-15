@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Software Engineering Group Project</b>
-  - [Restaurant App in Java](https://github.com/dhone-asu/CSE_360-TeamProject)
+- <b>Small Projects</b>
+  - [Calculator App in Java](https://github.com/snajim2/Calculator)
 
 LinkedIn: http://www.linkedin.com/in/sabien-najim-687159267 
